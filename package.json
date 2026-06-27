@@ -1,0 +1,14 @@
+{
+  "name": "firefighter-shift-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for firefighters to claim/lock shifts, synced to Google Sheets",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "googleapis": "^140.0.0"
+  }
+}

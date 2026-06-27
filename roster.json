@@ -1,0 +1,5 @@
+{
+  "123456789012345678": { "name": "John Smith", "rank": "Captain" },
+  "234567890123456789": { "name": "Maria Lopez", "rank": "Lieutenant" },
+  "345678901234567890": { "name": "David Chen", "rank": "Firefighter" }
+}
